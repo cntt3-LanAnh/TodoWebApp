@@ -35,8 +35,6 @@ const DataBoard: Boards[] = [
       },
     ],
   },
-
-  
   {
     id: 2,
     title: "In progress",
