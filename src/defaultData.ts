@@ -8,28 +8,28 @@ const DataBoard: Boards[] = [
     cards: [
       {
         id: Helpers.uuid(),
-        name: "The standard Lorem",
-        createdAt: "2023/03/12",
+        name: "Task1",
+        createdAt: "2023/04/9",
         description:
-          "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt",
+          "Drinking beer",
         tasks: [],
         progress: 30,
       },
       {
         id: Helpers.uuid(),
-        name: "The standard Lorem 2",
-        createdAt: "2023/03/11",
+        name: "Task2",
+        createdAt: "2023/04/9",
         description:
-          "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt",
+          "Write hello word",
         tasks: [],
         progress: 30,
       },
       {
         id: Helpers.uuid(),
-        name: "The standard Lorem 3",
-        createdAt: "2023/03/15",
+        name: "Task3",
+        createdAt: "2023/04/9",
         description:
-          "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt",
+          "Cooking food",
         tasks: [],
         progress: 30,
       },
@@ -41,10 +41,10 @@ const DataBoard: Boards[] = [
     cards: [
       {
         id: Helpers.uuid(),
-        name: "Bonorum et Malorum",
-        createdAt: "2023/03/14",
+        name: "Task4",
+        createdAt: "2023/04/9",
         description:
-          "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt",
+          "Cooking Meal",
         tasks: [],
         progress: 30,
       },
@@ -56,10 +56,10 @@ const DataBoard: Boards[] = [
     cards: [
       {
         id: Helpers.uuid(),
-        name: "On the other hand",
-        createdAt: "2023/03/10",
+        name: "Task5",
+        createdAt: "2023/04/9",
         description:
-          "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt",
+          "Drinking milk",
         tasks: [],
         progress: 30,
       },
